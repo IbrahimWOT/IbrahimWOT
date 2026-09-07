@@ -2,6 +2,14 @@
 <h3 align="center">Software Engineering Student & Backend Developer</h3>
 
 <p align="center">
+  <a href="https://github.com/IbrahimWOT" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:ibrahimhridoy4848@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghprofile/?username=IbrahimWOT&color=cyan&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/CGPA-3.95%2F4.00-cyan?style=flat-square" alt="CGPA" />
   <img src="https://img.shields.io/badge/Focus-Backend_%26_Deep_Learning-blue?style=flat-square" alt="Focus" />
@@ -18,14 +26,11 @@ I am a final-year Computer Science and Engineering student at the **Bangladesh U
 
 ---
 
-### 🛠️ Tech Stack & Languages
+### 🛠️ Tech Stack & Tools
 
-* **Programming Languages:** Go, Python, TypeScript, JavaScript, C, C++, Java
-* **Backend & Web:** Next.js 16, React 19, Prisma ORM, REST APIs
-* **Mobile Development:** Flutter, Firebase
-* **Databases & Cloud:** PostgreSQL, MySQL, Supabase, MongoDB
-* **AI & Deep Learning:** PyTorch, U-Net, Vision Transformer (ViT), OpenCV, NumPy
-* **Tools & DevOps:** Git, GitHub, Vercel, Docker, Linux, VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,ts,js,c,cpp,java,nextjs,react,flutter,prisma,postgres,mysql,mongodb,supabase,pytorch,docker,git,github,linux,vscode,vercel" />
+</p>
 
 ---
 
@@ -47,11 +52,5 @@ I am a final-year Computer Science and Engineering student at the **Bangladesh U
 </p>
 
 ---
-
-### 🤝 Connect with Me
-<p>
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ibrahimhridoy4848@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 > *"Code is like humor. When you have to explain it, it’s bad."*
