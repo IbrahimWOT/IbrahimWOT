@@ -1,28 +1,20 @@
 <h1 align="center">Hi 👋, I'm Md. Ibrahim</h1>
-<h3 align="center">Software Engineering Student & Backend Developer</h3>
+<h3 align="center">Computer Science and Engineering Student & Backend Developer</h3>
 
 <p align="center">
   <a href="https://github.com/IbrahimWOT" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="mailto:ibrahimhridoy4848@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghprofile/?username=IbrahimWOT&color=cyan&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/CGPA-3.95%2F4.00-cyan?style=flat-square" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_Deep_Learning-blue?style=flat-square" alt="Focus" />
 </p>
 
 ---
 
 ### 💫 About Me
-I am a final-year Computer Science and Engineering student at the **Bangladesh University of Business and Technology (BUBT)** with a strong academic standing (3.95/4.00 CGPA). Passionate about system design and algorithmic problem-solving, I specialize in building scalable backend systems, full-stack web/mobile applications, and experimenting with deep learning pipelines.
+I am a final-year Computer Science and Engineering student at the **Bangladesh University of Business and Technology (BUBT)**. Passionate about system design and algorithmic problem-solving, I specialize in building scalable backend systems, full-stack web/mobile applications, and experimenting with deep learning pipelines.
 
 * 🔭 **Working on:** Capstone Thesis on Medical Image Segmentation & Scalable Web Applications.
 * 🚀 **Core Interests:** Backend Engineering (Go), Distributed Systems, and AI/Deep Learning.
-* 📫 **Reach me at:** ibrahimhridoy4848@gmail.com
 
 ---
 
@@ -47,8 +39,11 @@ I am a final-year Computer Science and Engineering student at the **Bangladesh U
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimWOT&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimWOT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimWOT&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=33" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimWOT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
