@@ -1,44 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Hridoy</h1>
-<h3 align="center">Coding Enthusiast & Computer Science Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Md. Ibrahim</h1>
+<h3 align="center">Software Engineering Student & Backend Developer</h3>
 
 <p align="center">
-<a href="https://codeforces.com/profile/wasteOf_time" target="_blank"><img src="https://img.shields.io/badge/Codeforces-wasteOf__time-blue?style=flat&logo=codeforces" alt="Codeforces"></a>
-<a href="https://www.linkedin.com/in/ibrahimhridoy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <img src="https://komarev.com/ghprofile/?username=IbrahimWOT&color=cyan&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/CGPA-3.95%2F4.00-cyan?style=flat-square" alt="CGPA" />
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Deep_Learning-blue?style=flat-square" alt="Focus" />
 </p>
 
 ---
 
 ### 💫 About Me
-I am a passionate developer and a competitive programmer. Currently, I am diving deep into **Golang** to build scalable and efficient backend systems while also working on mobile solutions.
+I am a final-year Computer Science and Engineering student at the **Bangladesh University of Business and Technology (BUBT)** with a strong academic standing (3.95/4.00 CGPA). Passionate about system design and algorithmic problem-solving, I specialize in building scalable backend systems, full-stack web/mobile applications, and experimenting with deep learning pipelines.
 
-- 🔭 **Working on:** [KrishiBondhu](https://github.com/KrishiBondhu/krishi_bondhu_app_bd) (An agricultural support platform)
-- 🌱 **Learning:** Golang (Mastering the basics), Flutter, Software Engineering, and DDBMS.
-- 🎯 **Goal:** To become a proficient Software Engineer and improve my rating on Codeforces.
-- 📫 **Reach me at:** [ibrahimhridoy4848@gmail.com](mailto:ibrahimhridoy4848@gmail.com)
-- ⚡ **Fun fact:** I think I am lazy, but my code says otherwise!
+* 🔭 **Working on:** Capstone Thesis on Medical Image Segmentation & Scalable Web Applications.
+* 🚀 **Core Interests:** Backend Engineering (Go), Distributed Systems, and AI/Deep Learning.
+* 📫 **Reach me at:** ibrahimhridoy4848@gmail.com
 
 ---
 
-### 🚀 Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,cpp,c,java,flutter,mongodb,mysql,git,github,vscode" />
-</p>
+### 🛠️ Tech Stack & Languages
+
+* **Programming Languages:** Go, Python, TypeScript, JavaScript, C, C++, Java
+* **Backend & Web:** Next.js 16, React 19, Prisma ORM, REST APIs
+* **Mobile Development:** Flutter, Firebase
+* **Databases & Cloud:** PostgreSQL, MySQL, Supabase, MongoDB
+* **AI & Deep Learning:** PyTorch, U-Net, Vision Transformer (ViT), OpenCV, NumPy
+* **Tools & DevOps:** Git, GitHub, Vercel, Docker, Linux, VS Code
+
+---
+
+### 🚀 Featured Projects & Research
+
+| Project Name | Description & Tech Stack | Links |
+| :--- | :--- | :--- |
+| **Colorectal Polyp Segmentation** | Hybrid deep learning pipeline utilizing U-Net and Vision Transformer (ViT) architectures for automated medical image segmentation. *(Python, PyTorch, ViT)* | [Dataset](https://www.kaggle.com/datasets/rakibulislam414/polyx-master-dataset) |
+| **FoodDrop** | Enterprise food delivery ecosystem featuring multi-kitchen support, live GPS routing, and a fintech cash ledger. *(Next.js 16, Prisma, PostgreSQL)* | [GitHub](https://github.com/IbrahimWOT) |
+| **KrishiBondhu** | Smart agriculture app with real-time weather forecasting, AI pest detection, and a peer-to-peer farmer marketplace. *(Flutter, Firebase, AI)* | [GitHub](https://github.com/IbrahimWOT) |
 
 ---
 
 ### 📊 GitHub Stats & Activity
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IbrahimWOT&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimWOT&layout=compact&theme=radical&langs_count=6" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimWOT&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimWOT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/ibrahimhridoy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahimhridoy" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mi.hridoy.3388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-all.svg" alt="mi.hridoy.3388" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/wasteOf_time" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="wasteof_time" height="25" width="40" /></a>
+<p>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ibrahimhridoy4848@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i></p>
+> *"Code is like humor. When you have to explain it, it’s bad."*
